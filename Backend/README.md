@@ -1,6 +1,8 @@
 # Backend API Documentation
+<img width="439" height="978" alt="Screenshot 2025-08-09 at 18 16 14" src="https://github.com/user-attachments/assets/cf0f7eda-7dd5-464a-af2b-975081adf308" />
 
 ## `/users/register` Endpoint
+<img width="460" height="1003" alt="Screenshot 2025-08-09 at 18 15 43" src="https://github.com/user-attachments/assets/361cc983-c9cc-426d-b58e-ff6056c0b287" />
 
 ### Description
 
@@ -31,6 +33,7 @@ The request body should be in JSON format and include the following fields:
 - `token` (String): JWT Token
 
 ## `/users/login` Endpoint
+<img width="442" height="974" alt="Screenshot 2025-08-09 at 18 15 55" src="https://github.com/user-attachments/assets/013b8d2e-81cb-4df2-9f15-d595bf61f297" />
 
 ### Description
 
